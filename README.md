@@ -16,7 +16,8 @@ Built by a music-loving coder who plays guitar and enjoys making creative tools.
 
 ## 📷 Demo
 
-![Demo Screenshot](screenshot.png)
+![Demo Screenshot](demo.png)
+
 
 ##🛠️ Technologies Used
 
