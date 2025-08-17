@@ -1,8 +1,3 @@
-Here's a **pretty README** for your GitHub repo!  
-Feel free to copy-paste and personalize further if you like.
-
-***
-
 # Hand Gesture Volume Control 🎸🖐️
 
 A fun Computer Vision project using OpenCV, MediaPipe, and PyAutoGUI to control your PC's volume—with just your hand gestures!  
