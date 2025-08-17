@@ -30,7 +30,7 @@ Built by a music-loving coder who plays guitar and enjoys making creative tools.
 ### Prerequisites
 
 ```bash
-pip install opencv-python mediapipe pyautogui
+pip install -r requirements.txt
 ```
 
 ### Clone & Run
