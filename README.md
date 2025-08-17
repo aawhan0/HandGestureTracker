@@ -19,7 +19,7 @@ Built by a music-loving coder who plays guitar and enjoys making creative tools.
 ![Demo Screenshot](demo.png)
 
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - **Python**
 - **OpenCV**
